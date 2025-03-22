@@ -1,6 +1,5 @@
 Bootstrap: shub
 From: singularityhub/ubuntu
-
 %help
     See https://github.com/princeton-vl/CoqGym/blob/master/README.md#using-coqgym-in-a-container
 
