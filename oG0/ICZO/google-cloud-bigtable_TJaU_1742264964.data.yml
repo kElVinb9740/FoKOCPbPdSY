@@ -1,6 +1,5 @@
 language: java
 
-# sudo-enabled environment has 7.5GB of RAM vs. 4GB of RAM for container-based
 # env: https://docs.travis-ci.com/user/ci-environment/#Virtualization-environments
 sudo: required
 
