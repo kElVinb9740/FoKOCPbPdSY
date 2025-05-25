@@ -15,5 +15,4 @@
 !doc/examples
 !tests
 
-# always ignore these files
 **/*.pyc
